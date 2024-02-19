@@ -1,4 +1,5 @@
 # ExcelとCSV
+pandasを使ってExcelのデータをpythonプログラムに読み込む
 - `howToUseDataFrame.ipynb`
     - pandas.DataFrameの基本的使い方
     - Excelデータの読み込み
