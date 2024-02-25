@@ -9,5 +9,6 @@ pandasを使ってExcelのデータをpythonプログラムに読み込む
     - CVSファイルの扱い
 - `sagaPopulation0.ipynb`
     - 佐賀県人口データ
+    - 実際のExcelファイル読み込みの参考
 - 確認テスト
     - `quiz.ipynb`
